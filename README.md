@@ -53,11 +53,7 @@ celsius-fahrenheit-converter/
 git clone https://github.com/GeethikaReddy2306/celsius-fahrenheit-converter.git
 ```
 
-### Navigate to the project folder
 
-```bash
-cd celsius-fahrenheit-converter
-```
 
 ### Run the project
 
